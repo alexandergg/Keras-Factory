@@ -1,7 +1,7 @@
 Keras Factory
 ===============
 
-Este proyecto, Keras-Factory trata de utilizar de manera facil y estructurada los modelos disponibles ya en Keras. Se penso para que el equipo de Plain Concepts tuviera una biblioteca de aprendizaje profundo de Keras disponibles y de facil uso. Proporciona definiciones de modelos y pesos pre-entrenados para una serie de arquitecturas populares, como VGG16, ResNet50, Xception, Inception y más.
+Este proyecto, Keras-Factory trata de utilizar de manera facil y estructurada los modelos disponibles ya en Keras. Se penso para que cualquiera tuviera una biblioteca de aprendizaje profundo de Keras disponibles y de facil uso. Proporciona definiciones de modelos y pesos pre-entrenados para una serie de arquitecturas populares, como VGG16, ResNet50, Xception, Inception y más.
 
 Entorno Virtual
 ===============
