@@ -1,0 +1,42 @@
+name: keras-factory
+channels:
+  - defaults
+dependencies:
+  - certifi=2018.8.24=py35_1
+  - pip=10.0.1=py35_0
+  - python=3.5.6=he025d50_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_0
+  - wheel=0.31.1=py35_0
+  - wincertstore=0.2=py35hfebbdb8_0
+  - pip:
+    - absl-py==0.7.1
+    - astor==0.7.1
+    - cycler==0.10.0
+    - gast==0.2.2
+    - grpcio==1.19.0
+    - h5py==2.9.0
+    - keras==2.2.0
+    - keras-applications==1.0.2
+    - keras-preprocessing==1.0.1
+    - kiwisolver==1.0.1
+    - markdown==3.0.1
+    - matplotlib==3.0.3
+    - natsort==6.0.0
+    - numpy==1.16.2
+    - pillow==5.4.1
+    - protobuf==3.7.0
+    - pyparsing==2.3.1
+    - python-dateutil==2.8.0
+    - pyyaml==5.1
+    - scikit-learn==0.20.3
+    - scipy==1.2.1
+    - setuptools==39.1.0
+    - six==1.12.0
+    - sklearn==0.0
+    - tensorboard==1.9.0
+    - tensorflow==1.9.0
+    - termcolor==1.1.0
+    - werkzeug==0.14.1
+prefix: C:\Users\algonzalez\AppData\Local\Continuum\anaconda3\envs\keras-factory
+

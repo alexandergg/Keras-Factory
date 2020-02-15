@@ -1,0 +1,22 @@
+{
+    "network": {
+        "name": "VGG19",
+        "model_save_path": "models/model_network.h5",
+        "dropout" : "",
+        "activation" : "softmax",
+        "epochs" : 3,
+        "batch_size_training" : 32,
+        "batch_size_evaluate" : 10,
+        "verbose": 1,
+        "loss_type": "categorical_crossentropy",
+        "optimizer":"rmsprop",
+        "metrics":"accuracy",
+        "include_top": "True"
+    },
+    "tensorboard":{
+        "name_runs": "keras-factory"
+    },
+    "data_path":{
+        "path": "C:/Users/algonzalez/source/repos/DevOps/Keras_Factory/source/dataset"
+    }
+}
